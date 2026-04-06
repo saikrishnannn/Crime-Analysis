@@ -41,7 +41,7 @@ The data is sourced from the National Crime Records Bureau (NCRB), Ministry of H
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/India-Crime-Analysis.git
+git clone https://github.com/saikrishnannn/Crime-Analysis.git
 Install dependencies:
 
 Bash
